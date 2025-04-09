@@ -1,0 +1,21 @@
+/* Ajout des traductions pour l'accessibilité */
+{
+  "en": {
+    "accessibility": {
+      "skipToContent": "Skip to main content",
+      "screenReaderOnly": "Content visible only for screen readers",
+      "expandMenu": "Expand menu",
+      "closeMenu": "Close menu",
+      "zoomIn": "Zoom in",
+      "zoomOut": "Zoom out",
+      "currentLocation": "Current location",
+      "loading": "Loading",
+      "error": "Error",
+      "success": "Success",
+      "required": "Required",
+      "optional": "Optional",
+      "selected": "Selected",
+      "notSelected": "Not selected"
+    }
+  }
+}

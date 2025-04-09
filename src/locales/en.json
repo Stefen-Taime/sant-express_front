@@ -1,0 +1,73 @@
+{
+  "en": {
+    "app": {
+      "title": "SantéExpress",
+      "tagline": "Find healthcare facilities nearby quickly"
+    },
+    "nav": {
+      "home": "Home",
+      "map": "Map",
+      "about": "About"
+    },
+    "search": {
+  "placeholder": "Enter your address",
+  "button": "Search",
+  "useLocation": "Use my location",
+  "noResults": "No facilities found",
+  "initialMessage": "Enter an address or use your location to find healthcare facilities",
+  "searchAll": "Search all facilities"
+},
+    "filters": {
+      "title": "Filters",
+      "type": "Facility type",
+      "services": "Available services",
+      "distance": "Maximum distance",
+      "apply": "Apply",
+      "reset": "Reset"
+    },
+    "establishment": {
+      "distance": "{distance} km away",
+      "patients": "Waiting patients",
+      "waitTime": "Estimated wait time",
+      "occupation": "Occupancy rate",
+      "civiere": "Patients on stretcher >24h",
+      "details": "View details",
+      "directions": "Directions",
+      "services": "Services",
+      "contact": "Contact",
+      "hours": "Opening hours"
+    },
+    
+    "status": {
+      "normal": "Normal",
+      "busy": "Busy",
+      "critical": "Critical"
+    },
+    "map": {
+      "title": "Facilities Map",
+      "legend": "Legend",
+      "normal": "Normal rate",
+      "busy": "High rate",
+      "critical": "Critical rate"
+    },
+    "directions": {
+      "title": "Directions to",
+      "start": "Starting point",
+      "destination": "Destination",
+      "calculate": "Calculate route",
+      "distance": "Distance",
+      "duration": "Estimated duration",
+      "navigate": "Start navigation"
+    },
+    "settings": {
+      "title": "Settings",
+      "darkMode": "Dark mode",
+      "language": "Language"
+    },
+    "errors": {
+      "location": "Unable to get your location",
+      "network": "Server connection error",
+      "notFound": "Page not found"
+    }
+  }
+}

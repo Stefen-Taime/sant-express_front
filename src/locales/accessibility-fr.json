@@ -1,0 +1,21 @@
+/* Ajout des traductions pour l'accessibilité */
+{
+  "fr": {
+    "accessibility": {
+      "skipToContent": "Aller au contenu principal",
+      "screenReaderOnly": "Contenu visible uniquement pour les lecteurs d'écran",
+      "expandMenu": "Ouvrir le menu",
+      "closeMenu": "Fermer le menu",
+      "zoomIn": "Agrandir",
+      "zoomOut": "Réduire",
+      "currentLocation": "Position actuelle",
+      "loading": "Chargement en cours",
+      "error": "Erreur",
+      "success": "Succès",
+      "required": "Obligatoire",
+      "optional": "Optionnel",
+      "selected": "Sélectionné",
+      "notSelected": "Non sélectionné"
+    }
+  }
+}

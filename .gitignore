@@ -1,23 +1,62 @@
-.DS_Store
-node_modules
+# Dépendances npm/yarn
+/node_modules
+/.pnp
+.pnp.js
+
+# Environnement Python
+/mcpenv
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Fichiers de build et de production
 /dist
+/build
 
-
-# local env files
+# Fichiers locaux
+.DS_Store
 .env.local
 .env.*.local
+.env
+.env.development
+.env.test
+.env.production
 
-# Log files
+# Logs
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-pnpm-debug.log*
+logs
+*.log
 
-# Editor directories and files
-.idea
-.vscode
+# Fichiers d'éditeur
+.idea/
+.vscode/
 *.suo
 *.ntvs*
 *.njsproj
 *.sln
 *.sw?
+.project
+.classpath
+.settings/
+
+# Tests
+/coverage
+/tests/e2e/videos/
+/tests/e2e/screenshots/
+
+# Fichiers temporaires
+*.tmp
+*.bak
+*.swp
+*~.nib

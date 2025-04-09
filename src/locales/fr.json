@@ -1,0 +1,72 @@
+{
+  "fr": {
+    "app": {
+      "title": "SantéExpress",
+      "tagline": "Trouvez rapidement des soins à proximité"
+    },
+    "nav": {
+      "home": "Accueil",
+      "map": "Carte",
+      "about": "À propos"
+    },
+    "search": {
+  "placeholder": "Entrez votre adresse",
+  "button": "Rechercher",
+  "useLocation": "Utiliser ma position",
+  "noResults": "Aucun établissement trouvé",
+  "initialMessage": "Entrez une adresse ou utilisez votre position pour trouver des établissements de santé",
+  "searchAll": "Rechercher tous les établissements"
+},
+    "filters": {
+      "title": "Filtres",
+      "type": "Type d'établissement",
+      "services": "Services disponibles",
+      "distance": "Distance maximale",
+      "apply": "Appliquer",
+      "reset": "Réinitialiser"
+    },
+    "establishment": {
+      "distance": "à {distance} km",
+      "patients": "Patients en attente",
+      "waitTime": "Temps d'attente estimé",
+      "occupation": "Taux d'occupation",
+      "civiere": "Patients sur civière >24h",
+      "details": "Voir détails",
+      "directions": "Itinéraire",
+      "services": "Services",
+      "contact": "Contact",
+      "hours": "Heures d'ouverture"
+    },
+    "status": {
+      "normal": "Normal",
+      "busy": "Occupé",
+      "critical": "Saturé"
+    },
+    "map": {
+      "title": "Carte des établissements",
+      "legend": "Légende",
+      "normal": "Taux normal",
+      "busy": "Taux élevé",
+      "critical": "Taux critique"
+    },
+    "directions": {
+      "title": "Itinéraire vers",
+      "start": "Point de départ",
+      "destination": "Destination",
+      "calculate": "Calculer l'itinéraire",
+      "distance": "Distance",
+      "duration": "Durée estimée",
+      "navigate": "Lancer la navigation"
+    },
+    "settings": {
+      "title": "Paramètres",
+      "darkMode": "Mode sombre",
+      "language": "Langue"
+    },
+    "errors": {
+      "location": "Impossible d'obtenir votre position",
+      "network": "Erreur de connexion au serveur",
+      "notFound": "Page non trouvée"
+    }
+  }
+}
